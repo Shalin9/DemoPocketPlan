@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home" android:title="Home" android:icon="@android:drawable/ic_menu_view" />
+    <item android:id="@+id/nav_add_expense" android:title="Add Expense" android:icon="@android:drawable/ic_input_add" />
+    <item android:id="@+id/nav_summary" android:title="Summary" android:icon="@android:drawable/ic_dialog_info" />
+    <item android:id="@+id/nav_add_category" android:title="Add Category" android:icon="@android:drawable/ic_menu_manage" />
+    <item android:id="@+id/nav_goal" android:title="Set Goal" android:icon="@android:drawable/ic_menu_compass" />
+    <item android:id="@+id/nav_category_summary" android:title="Category Summary" android:icon="@android:drawable/ic_menu_agenda" />
+    <item android:id="@+id/nav_spending_graph" android:title="Spending Graph" android:icon="@android:drawable/ic_menu_zoom" />  <!-- optional icon -->
+    <item android:id="@+id/nav_goals" android:title="Set Spending Goals" android:icon="@android:drawable/btn_star_big_on" />  <!-- optional icon -->
+    <item android:id="@+id/nav_logout" android:title="Logout" android:icon="@android:drawable/ic_lock_power_off" />
+   <!-- <item android:id="@+id/nav_graph" android:title="View Graph" android:icon="@android:drawable/ic_menu_agenda" />-->
+
+</menu>

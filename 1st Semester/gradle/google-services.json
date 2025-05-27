@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "348976827126",
+    "project_id": "pocketplanpoe",
+    "storage_bucket": "pocketplanpoe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348976827126:android:988d9e3dc557a7a0383ad7",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.pocketplanpoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRGiauarem1nJJF7wHeZpH_15tKW4EzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348976827126:android:7fa65b2729e943d0383ad7",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.poe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRGiauarem1nJJF7wHeZpH_15tKW4EzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
